@@ -1,0 +1,7 @@
+Model,MAE,RMSE,MAPE_%
+RandomForest,12.8,16.1,0.68
+GradientBoosting,13.3,16.1,0.71
+Naive,13.5,16.3,0.72
+MovingAvg_7,13.7,17.0,0.73
+ExpSmoothing,47.0,56.2,2.52
+SARIMA,91.3,103.7,4.89
