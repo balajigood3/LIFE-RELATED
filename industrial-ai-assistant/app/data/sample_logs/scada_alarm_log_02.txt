@@ -1,0 +1,8 @@
+[2026-10-30 09:15:44] SCADA EVENT LOG - TRANSFORMER BAY T-110-02
+============================================================
+09:15:44.100  ALARM   T-110-02   Winding Temperature High Stage 1   Top Oil: 92°C  Winding: 108°C
+09:16:02.200  ALARM   T-110-02   Cooling Fan Group 2 Failure
+09:18:30.000  ALARM   T-110-02   Buchholz Relay Alarm (Gas Accumulation)
+09:19:15.000  EVENT   T-110-02   OLTC Tap Change Blocked
+09:22:00.000  NOTE    Operator   "Cooling fans not starting. Possible contactor or supply issue to fan motors."
+============================================================

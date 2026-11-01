@@ -1,0 +1,14 @@
+[2026-10-28 14:22:17] SCADA EVENT LOG - SUBSTATION GIS-220
+============================================================
+14:22:17.342  ALARM   CB-220-01   A-101  SF6 Gas Pressure Low (Stage 1)   Value: 5.8 bar (Nom: 6.5 bar)
+14:22:17.355  ALARM   CB-220-01   A-215  Phase Current Imbalance         Ia=412A  Ib=398A  Ic=287A  Imbalance=18.2%
+14:22:18.102  EVENT   CB-220-01   Status Change: CLOSED -> TRIPPED (Protection)
+14:22:18.110  ALARM   CB-220-01   Protection Trip: Unbalance / Phase Failure
+14:22:19.450  EVENT   DS-220-01A  Disconnector Open Command Issued
+14:22:21.880  EVENT   DS-220-01A  Disconnector Confirmed OPEN
+14:22:22.015  EVENT   ES-220-01A  Earthing Switch Close Command
+14:22:24.300  EVENT   ES-220-01A  Earthing Switch Confirmed CLOSED
+14:23:05.000  NOTE    Operator   Manual note: "Unusual noise reported from CB mechanism before trip. Possible mechanical binding + gas leak."
+14:25:12.000  ALARM   CB-220-01   A-102  SF6 Gas Pressure Low (Stage 2)   Value: 5.1 bar  [CRITICAL]
+============================================================
+End of excerpt. Full historian data available on request.
